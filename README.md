@@ -1,4 +1,4 @@
-# 欢迎使用 Cmd Markdown 编辑阅读器
+# 学习MarkDown
 
 >* 代码整洁
 
